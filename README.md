@@ -1,0 +1,3 @@
+# Brucellosis_datakk
+It is the cross-sectional study data of brucellosis of goats in Nepal.
+Given unregulated trade of livestock at Nepalese borders and the studies showing prevalence of brucellosis among cattle and goats in the neighboring countries (Table.2), we focus our study to (i) screen the imported and the local goats in a live market of Nepal for Brucella spp. infection, (ii) determine if the imported goats have higher chance of brucella exposure than the local goats,  (iii) compare if the breed variations make any differences in detecting brucella among the goats, and (iv) to revisit the current epidemiological situation of brucellosis in Nepal.. 
